@@ -1,9 +1,4 @@
-# Pluralcloud - Solução de Cloud Privada para Labs
-
-
-Bem-vindo a Pluralcloud!
-
-## Descrição do Projeto
+# AOSC - Pluralcloud: Solução de Cloud Privada para Labs
 
 A Pluralcloud é uma solução de cloud privada desenvolvida especialmente para uso em Labs, proporcionando um ambiente seguro e flexível para explorar e experimentar diversas ferramentas e tecnologias, com destaque para o uso das seguintes:
 
@@ -41,16 +36,24 @@ Para utilizar A Pluralcloud, siga os passos abaixo:
 
 ## Contribuindo
 
-Nós acreditamos no poder da colaboração e da comunidade, e ficaremos felizes em receber suas contribuições para melhorar A Pluralcloud. Se você encontrar bugs, tiver ideias de novos recursos ou quiser corrigir qualquer coisa no projeto, por favor, siga nossas diretrizes de contribuição no arquivo [CONTRIBUTING.md](https://github.com/angolarti/pluralsiscloud/blob/develop/CONTRIBUTING.md).
+Nós acreditamos no poder da colaboração e da comunidade, e ficaremos felizes em receber suas contribuições para melhorar A Pluralcloud. 
+
+Veja `CONTRIBUTING.md` para mais detalhes sobre como contribuir para este projeto.
 
 ## Suporte
 
-Se precisar de ajuda, tiver alguma dúvida ou quiser relatar um problema, sinta-se à vontade para abrir uma issue neste repositório. Nossa equipe estará pronta para ajudar e oferecer suporte.
+Se precisar de ajuda, tiver alguma dúvida ou quiser relatar um problema, sinta-se à vontade para abrir uma issue neste repositório ou deixar uma mensagem no nosso [servidor no Discord](https://discord.gg/ztaw5tBb).
 
 ## Licença
 
-A Pluralcloud é distribuído sob a licença [MIT](link_para_arquivo_licenca), o que significa que você pode usar, modificar e distribuir este projeto livremente, desde que respeite os termos da licença.
+A Pluralcloud é distribuído sob a licença [MIT](./LICENSE).
 
 ---
 
-Esperamos que você aproveite a experiência de usar A Pluralcloud para explorar e aprender mais sobre as ferramentas de infraestrutura e automação listadas. Se tiver alguma sugestão ou feedback, estamos ansiosos para ouvir de você. Divirta-se explorando A Pluralcloud!
+AOSC - Pluralcloud é um project da <a href="http://github.com/angolasc">Angola Open-source Community</a>.
+
+![Angola Open-source Community](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)
+
+## Code of Conduct(CoC)
+
+Por favor, note que AOSC - Pluralcloud segue o [AOSC Code of Conduct](https://github.com/angolaosc/.github/blob/main/CODE_OF_CONDUCT.md). Ao participar deste projeto, você concorda em seguir seus termos.
