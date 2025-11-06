@@ -50,7 +50,7 @@ A Pluralcloud é distribuído sob a licença [MIT](./LICENSE).
 
 ---
 
-AOSC - Pluralcloud é um project da <a href="http://github.com/angolasc">Angola Open-source Community</a>.
+AOSC - Pluralcloud é um projeto da <a href="http://github.com/angolasc">Angola Open-source Community</a>.
 
 ![Angola Open-source Community](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)
 
